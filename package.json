@@ -73,7 +73,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.22.19",
+    "@babel/core": "^7.29.6",
     "@babel/plugin-syntax-flow": "^7.22.5",
     "@babel/plugin-transform-class-properties": "^7.22.5",
     "@babel/plugin-transform-react-jsx": "^7.22.15",
@@ -100,7 +100,7 @@
     "eslint-plugin-testing-library": "^5.11.1",
     "husky": "^8.0.3",
     "jest": "^27.5.1",
-    "pnpm": "^8.7.5",
+    "pnpm": "^10.28.2",
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^2.8.8",
     "pretty-quick": "^3.1.3",
